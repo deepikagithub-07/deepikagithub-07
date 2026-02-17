@@ -1,18 +1,41 @@
-# 💫 About Me:
-Hi 👋 I’m Deepika, a 🎓 Computer Science and Engineering student passionate about building real-world solutions using both software and hardware.<br>I’m a 🏆 CMR Winner and a 🚀 Smart India Hackathon (SIH) Finalist, with experience in innovation, teamwork, and problem-solving.<br>I work with Java, Web Development, and Python (Flask), and enjoy developing AI-based and hardware-integrated projects, especially in healthcare.<br>I believe in consistent learning and hands-on experimentation, growing step by step as a developer 🚀.
+# About Me
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepika-eswaran-6a83962b4/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Deepika Eswaran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepikaeswaran07@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deepika Eswaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Deepika Eswaran&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika Eswaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Hi, I’m **Deepika**, a Computer Science and Engineering student with a strong interest in building real-world solutions through **software and hardware integration**.  
+I am a **CMR Winner** and a **Smart India Hackathon (SIH) Finalist**, experienced in innovation-driven problem solving and collaborative teamwork.  
+My technical interests include **Java**, **Web Development**, and **Python (Flask)**, with a growing focus on **AI-driven and healthcare-oriented systems**.  
+I value consistent learning, hands-on experimentation, and steady growth as a developer.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deepika Eswaran&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-eswaran-6a83962b4/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:deepikaeswaran07@gmail.com)
+
+---
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=plastic&logo=raspberry-pi&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepikagithub-07&theme=dark&show_icons=true&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=deepikagithub-07&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepikagithub-07&theme=dark&layout=compact&hide_border=false)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=deepikagithub-07&icon=0&color=11)
