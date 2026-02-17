@@ -1,9 +1,9 @@
 # About Me
 
-Hi, I’m **Deepika**, a Computer Science and Engineering student with a strong interest in building real-world solutions through **software and hardware integration**.  
-I am a **CMR Winner** and a **Smart India Hackathon (SIH) Finalist**, experienced in innovation-driven problem solving and collaborative teamwork.  
-My technical interests include **Java**, **Web Development**, and **Python (Flask)**, with a growing focus on **AI-driven and healthcare-oriented systems**.  
-I value consistent learning, hands-on experimentation, and steady growth as a developer.
+Hi, I’m **Deepika**, a Computer Science and Engineering student passionate about building real-world solutions through **software and hardware integration**.  
+I am a **CMR Winner** and a **Smart India Hackathon (SIH) Finalist**, with experience in innovation-driven problem solving and collaborative teamwork.  
+My interests include **Java**, **Web Development**, and **Python (Flask)**, with a focus on **AI-based and healthcare-oriented systems**.  
+I believe in consistent learning, hands-on experimentation, and steady growth as a developer.
 
 ---
 
@@ -23,7 +23,7 @@ I value consistent learning, hands-on experimentation, and steady growth as a de
 ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=plastic&logo=raspberry-pi&logoColor=white)
+![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=plastic&logo=raspberry-pi&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=plastic&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
@@ -32,10 +32,12 @@ I value consistent learning, hands-on experimentation, and steady growth as a de
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepikagithub-07&theme=dark&show_icons=true&hide_border=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=deepikagithub-07&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepikagithub-07&theme=dark&layout=compact&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=deepikagithub-07&show_icons=true&theme=dark" />
+
+<img src="https://streak-stats.demolab.com?user=deepikagithub-07&theme=dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikagithub-07&layout=compact&theme=dark" />
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=deepikagithub-07&icon=0&color=11)
+<img src="https://visitcount.itsvg.in/api?id=deepikagithub-07&icon=0&color=11" />
