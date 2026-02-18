@@ -2,7 +2,7 @@
 
 Hi, I’m **Deepika**, a Computer Science and Engineering student passionate about building real-world solutions through **software and hardware integration**.  
 I am a **CMR Winner** and a **Smart India Hackathon (SIH) Finalist**, with experience in innovation-driven problem solving and collaborative teamwork.  
-My interests include **Java**, **Web Development**, and **Python (Flask)**, with a focus on **AI-based and healthcare-oriented systems**.  
+My interests include **Java**, **Web Development**, and **Hardware**, with a focus on **AI-based.  
 I believe in consistent learning, hands-on experimentation, and steady growth as a developer.
 
 ---
