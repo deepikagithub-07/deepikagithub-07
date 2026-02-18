@@ -29,15 +29,12 @@ I believe in consistent learning, hands-on experimentation, and steady growth as
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepikagithub-07&show_icons=true&theme=dark" />
-
-<img src="https://streak-stats.demolab.com?user=deepikagithub-07&theme=dark" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikagithub-07&layout=compact&theme=dark" />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Deepika Eswaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Deepika Eswaran&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepika Eswaran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Deepika Eswaran&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<img src="https://visitcount.itsvg.in/api?id=deepikagithub-07&icon=0&color=11" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
